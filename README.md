@@ -1,4 +1,4 @@
-![Uploading xcxcx.gif…]()
+![xcxcx](https://github.com/erknakbs/burger-react/assets/105823500/33b2427d-efc4-4555-8337-d78b0d703e73)
 
 
 # Getting Started with Create React App
